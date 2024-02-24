@@ -1,2 +1,2 @@
 # my_app
-this
+this is the fintech app
